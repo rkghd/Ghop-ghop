@@ -1,7 +1,6 @@
 telebot
 flask 
 aiogram
-dateutil
 aiohttp
 pyTelegramBotAPI
 pytz
